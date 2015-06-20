@@ -1,0 +1,15 @@
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\NLog.config
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\FSP-FSConnect.exe
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\FSP-FSConnect.pdb
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\FSUIPCServerLib.dll
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\NLog.dll
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\FSUIPCClient.dll
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\FSUIPCServerLib.pdb
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\NLog.xml
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\bin\Debug\FSUIPCClient.xml
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Debug\FSP-FSConnect Service.csprojResolveAssemblyReference.cache
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Debug\FSP_FSConnect.FPSService.resources
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Debug\FSP-FSConnect Service.csproj.GenerateResource.Cache
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Debug\FSP-FSConnect.exe
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Debug\FSP-FSConnect.pdb
+C:\Users\Rob Verhoef\Documents\Visual Studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Debug\FSP_FSConnect.ProjectInstaller.resources

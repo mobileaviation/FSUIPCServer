@@ -1,0 +1,16 @@
+2014-05-12 19:33:50.1140|INFO|FSPServer.ServerForm|Starting FSUIPC Server...
+2014-05-12 19:33:50.3960|INFO|FSUIPCServerLib.Server|Starting listener
+2014-05-12 19:33:50.4160|INFO|FSUIPCServerLib.Server|waiting for connections: 0
+2014-05-12 19:33:50.8100|ERROR|FSUIPCServerLib.Server|Test FSUIPC Error: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+2014-05-12 19:35:53.4970|INFO|FSPServer.ServerForm|Starting FSUIPC Server...
+2014-05-12 19:35:53.6091|INFO|FSUIPCServerLib.Server|Starting listener
+2014-05-12 19:35:53.6221|INFO|FSUIPCServerLib.Server|waiting for connections: 0
+2014-05-12 19:35:53.6641|ERROR|FSUIPCServerLib.Server|Test FSUIPC Error: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+2014-05-12 19:35:59.6324|INFO|FSPServer.ServerForm|Stopping FSUIPC server....
+2014-05-12 19:38:40.9756|ERROR|FSUIPCServerLib.Server|waiting for connections Exception: Not listening. You must call the Start() method before calling this method.
+2014-05-12 19:38:49.7861|INFO|FSPServer.ServerForm|Starting FSUIPC Server...
+2014-05-12 19:38:49.8141|INFO|FSUIPCServerLib.Server|Starting listener
+2014-05-12 19:38:49.8141|INFO|FSUIPCServerLib.Server|waiting for connections: 0
+2014-05-12 19:38:49.8531|ERROR|FSUIPCServerLib.Server|Test FSUIPC Error: FSUIPC Error #2: FSUIPC_ERR_NOFS. Cannot find FSUIPC or WideFS running on this machine.
+2014-05-12 19:38:53.6183|INFO|FSPServer.ServerForm|Stopping FSUIPC server....
+2014-05-12 19:38:53.6503|ERROR|FSUIPCServerLib.Server|waiting for connections Exception: A blocking operation was interrupted by a call to WSACancelBlockingCall
