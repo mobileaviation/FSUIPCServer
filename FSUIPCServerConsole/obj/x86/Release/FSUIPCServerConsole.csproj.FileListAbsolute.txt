@@ -10,3 +10,14 @@ C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCSe
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCServerConsole\obj\x86\Release\FSUIPCServerConsole.csprojResolveAssemblyReference.cache
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCServerConsole\obj\x86\Release\FSUIPCServerConsole.exe
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCServerConsole\obj\x86\Release\FSUIPCServerConsole.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\obj\x86\Release\FSUIPCServerConsole.exe
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\obj\x86\Release\FSUIPCServerConsole.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\NLog.config
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\FSUIPCServerConsole.exe
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\FSUIPCServerConsole.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\FSUIPCServerLib.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\FSUIPCClient.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\FSUIPCServerLib.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\NLog.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\bin\Release\FSUIPCClient.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerConsole\obj\x86\Release\FSUIPCServerConsole.csprojResolveAssemblyReference.cache

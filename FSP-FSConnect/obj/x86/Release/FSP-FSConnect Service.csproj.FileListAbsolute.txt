@@ -13,3 +13,17 @@ C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSP-FSCo
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP-FSConnect Service.csproj.GenerateResource.Cache
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP-FSConnect.exe
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP-FSConnect.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\NLog.config
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\FSP-FSConnect.exe
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\FSP-FSConnect.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\FSUIPCServerLib.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\FSUIPCClient.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\FSUIPCServerLib.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\NLog.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\bin\Release\FSUIPCClient.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP-FSConnect Service.csprojResolveAssemblyReference.cache
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP_FSConnect.FPSService.resources
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP_FSConnect.ProjectInstaller.resources
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP-FSConnect Service.csproj.GenerateResource.Cache
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP-FSConnect.exe
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSP-FSConnect\obj\x86\Release\FSP-FSConnect.pdb

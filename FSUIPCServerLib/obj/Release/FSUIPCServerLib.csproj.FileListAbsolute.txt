@@ -6,3 +6,10 @@ C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCSe
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCServerLib\bin\Release\NLog.xml
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCServerLib\obj\Release\FSUIPCServerLib.dll
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSUIPCServerLib\obj\Release\FSUIPCServerLib.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerLib\bin\Release\FSUIPCServerLib.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerLib\bin\Release\FSUIPCServerLib.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerLib\bin\Release\FSUIPCClient.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerLib\bin\Release\NLog.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerLib\obj\Release\FSUIPCServerLib.csprojResolveAssemblyReference.cache
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerLib\obj\Release\FSUIPCServerLib.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSUIPCServerLib\obj\Release\FSUIPCServerLib.pdb

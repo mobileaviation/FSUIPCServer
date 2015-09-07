@@ -14,3 +14,18 @@ C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSPServe
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.exe
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.pdb
 C:\Users\Rob Verhoef\documents\visual studio 2010\Projects\FSUIPCServer\FSPServer\bin\Release\NLog.config.debug
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.exe
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\NLog.config.debug
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\NLog.config
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\FSPServer.exe
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\FSPServer.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\FSUIPCServerLib.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\FSUIPCClient.dll
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\FSUIPCServerLib.pdb
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\NLog.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\bin\Release\FSUIPCClient.xml
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.csprojResolveAssemblyReference.cache
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.ServerForm.resources
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.Properties.Resources.resources
+C:\Users\Rob Verhoef\Documents\GitHub\FSUIPCServer\FSPServer\obj\x86\Release\FSPServer.csproj.GenerateResource.Cache
